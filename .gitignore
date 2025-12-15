@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.streamlit/
+.pytest_cache/
+*.log
+*.tmp
+*.cache
+/.ipynb_checkpoints
+/.DS_Store
+/.idea/
+/.vscode/
+hf_cache/
+models/
